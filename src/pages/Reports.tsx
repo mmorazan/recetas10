@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { BarChart3, Package, Edit2, Save, X } from 'lucide-react'
 
 interface ReportData {
